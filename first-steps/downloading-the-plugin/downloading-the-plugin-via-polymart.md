@@ -1,6 +1,6 @@
 # Downloading the plugin via Polymart
 
-To download zAngelTags, you just need to [click here](https://www.spigotmc.org/resources/zangeltags-mysql-mariadb-support-%E2%9C%85-multi-server.102952/), and you will be redirected to my SpigotMC page. Something similar to this will appear:
+To download zAngelTags, you just need to [click here](https://polymart.org/resource/zangeltags-mysql-amp-sqlite.2595), and you will be redirected to my SpigotMC page. Something similar to this will appear:
 
 ![zAngelTags page on Polymart](<../../.gitbook/assets/image (1).png>)
 
